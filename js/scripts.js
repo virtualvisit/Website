@@ -1841,8 +1841,8 @@ if(slider.siblings( '.slider_prev' ).length){
 				centerMode		: centerMode,
 				centerPadding	: '20%',
 				
-				prevArrow		: '<a class="button button_js slider_prev" href="#"><span class="button_icon"><i class="icon-left-open-big"></i></span></a>',
-				nextArrow		: '<a class="button button_js slider_next" href="#"><span class="button_icon"><i class="icon-right-open-big"></i></span></a>',
+                prevArrow: '<a class="button button_js slider_prev" href="#"><span class="button_icon"><i class="fas fa-arrow-left"></i></span></a>',
+                nextArrow: '<a class="button button_js slider_next" href="#"><span class="button_icon"><i class="fas fa-arrow-right"></i></span></a>',
 			
 
 				adaptiveHeight	: true,	

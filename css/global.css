@@ -16450,24 +16450,11 @@ body.mobile-side-slide {
 }
 /* Buttons | Flat -------------------------------------------------------------------- */
 
-.button-flat a.button:not(.action_button), .button-flat:not(.header-plain) a.button.action_button, .button-flat a.tp-button, .button-flat button, .button-flat input[type="submit"], .button-flat input[type="reset"], .button-flat input[type="button"] {
-	background-image: none;
-	border-width: 0;
-	border-style: solid;
-	-webkit-border-radius: 0;
-	border-radius: 0;
-	-webkit-box-shadow: inset 0 0 0 0;
-	box-shadow: inset 0 0 0 0;
-	-webkit-appearance: none
-}
 .button-flat a.button .button_icon {
 	background: none
 }
 .button-flat a.button .button_icon i {
 	color: inherit
-}
-.button-flat a.button_left.button .button_label, .button-flat a.button_left.button_large .button_label {
-	padding-left: 0
 }
 .button-flat a.button_right.button .button_label, .button-flat a.button_right.button_large .button_label {
 	padding-right: 0
