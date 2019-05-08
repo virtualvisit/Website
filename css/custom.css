@@ -1,3 +1,7 @@
 .plan-header h2 {
 	color: #444444;
 }
+.project-selected {
+    background-color: #fff !important;
+    color: #444 !important;
+}
